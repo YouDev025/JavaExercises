@@ -1,4 +1,4 @@
-package basics;
+package data_struct;
 import java.util.Locale;
 import java.util.Scanner;
 
