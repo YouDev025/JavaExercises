@@ -5,8 +5,6 @@ Bienvenue dans mon dépôt d'apprentissage Java ! Ce projet contient mes exercic
 ## 🗂️ Structure du Projet
 ```
 My_PROJECTS/
-├── .idea/                  # Configuration IntelliJ IDEA
-├── out/                    # Fichiers compilés
 ├── practice/               # Dossier principal de pratique
 │   ├── src/
 │   │   ├── algorithms/     # Algorithmes et structures de données
